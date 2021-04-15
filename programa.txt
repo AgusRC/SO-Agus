@@ -1,0 +1,8 @@
+mov ax,ad
+inc ax
+mov bx12
+inc bx
+DEC BX
+inc bx
+inc bx
+END
